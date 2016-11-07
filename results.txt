@@ -1,0 +1,24 @@
+Reading batch_payment ...
+500000 transactions read
+1000000 transactions read
+1500000 transactions read
+2000000 transactions read
+2500000 transactions read
+3000000 transactions read
+3500000 transactions read
+Finished reading!
+Totally 3934583 transactions read
+
+Building dictionary
+Done with dictionary
+
+Reading stream_payment for detection...
+500000 transactions processed
+1000000 transactions processed
+1500000 transactions processed
+2000000 transactions processed
+2500000 transactions processed
+Finished detections!
+Totally 2993549 transactions
+Please check the output directory for results...
+--- 81.6860899925 seconds ---
